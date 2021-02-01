@@ -2,3 +2,7 @@
 Personal pages Eric van der Linden
 
 This is the contact and license info for works by Eric van der Linden
+
+# Contact:
+Eric van der Linden
+apos59er@gmail.com
