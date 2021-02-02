@@ -9,5 +9,5 @@ Occasionally I publish works like poems and stories via [ericvanderlinden.wordpr
 
 # Contact:
 Eric van der Linden  
-<apos59er@gmail.com>
-<@apos59er>
+<apos59er@gmail.com>  
+[@apos59er](https://twitter.com/apos59er)
