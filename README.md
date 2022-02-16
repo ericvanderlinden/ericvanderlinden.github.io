@@ -1,6 +1,7 @@
 # ericvanderlinden.github.io
 Personal pages Eric van der Linden  
-Biographical and contact information, and license info for works by Eric van der Linden.  
+Biographical and contact information.  
+License info for works by Eric van der Linden.  
 
 Currently I am a volunteer at [Huygens Instituut voor Nederlandse Geschiedenis](https://www.huygens.knaw.nl/) and work as datacurator [Biografisch Portaal](http://www.biografischportaal.nl/).  
 I also write [blog posts](http://www.biografischportaal.nl/blog) in dutch.  
